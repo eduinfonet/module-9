@@ -1,0 +1,18 @@
+video-1 -- 1 Module Introduction and Project resources
+
+video-2 -- Use grid and flex layout to align the players
+
+video-3 -- Extract style information from figma and apply to players
+
+video-4 -- Style debug to fix style, add horizontal line break
+
+video-5 -- Create one blog using flex layout and style adjustment
+
+video-6 -- Add multiple blogs and use grid layout to get two columns
+
+video-7 -- Create Single course and use font awesome ratings
+
+video-8 -- Add all courses and set grid layout for three columns
+
+video-9 -- Set Media query to display blog in mobile devices
+  
